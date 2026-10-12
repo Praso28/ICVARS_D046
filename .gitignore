@@ -1,0 +1,36 @@
+# Unreal Engine .gitignore for GitHub
+# Prevents git from trying to upload 20-30GB of temporary caches, intermediate build files, and local settings
+
+# Visual Studio / IDE temporary files
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Compiled binaries and build artifacts
+Binaries/
+Build/
+
+# Unreal Engine Cache and Cooked Data (Major size culprits: 15-20 GB)
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Architecture and platform packages
+/Package/
+/Packages/
+*.apk
+*.obb
+*.aab
+*.ipa
+*.app
+*.exe
+*.dll
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
