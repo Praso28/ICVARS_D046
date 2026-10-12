@@ -1,8 +1,10 @@
 # Comparative Evaluation of Immersive Virtual Reality and Document-Based Training for Industrial Gas Leak Response
 
-**ICVARS 2026 — 10th International Conference on Virtual and Augmented Reality Simulations**  
-*Chalon-sur-Saône, France | July 8–10, 2026 | Paper ID: D046*
+**2026 10th International Conference on Intelligent Computing and Virtual & Augmented Reality Simulations (ICVARS)**  
+*Chalon-sur-Saône, France | July 8–10, 2026 | IEEE Paper ID: 11683007 (D046)*
 
+[![IEEE Xplore](https://img.shields.io/badge/IEEE_Xplore-11683007-00629B?logo=ieee&logoColor=white)](https://doi.org/10.1109/ICVARS70356.2026.11683007)
+[![DOI](https://img.shields.io/badge/DOI-10.1109%2FICVARS70356.2026.11683007-blue)](https://doi.org/10.1109/ICVARS70356.2026.11683007)
 [![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-5.4.4-0E1128?logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
 [![Target HMD](https://img.shields.io/badge/Target_HMD-Meta_Quest_3-0082FB?logo=meta&logoColor=white)](https://www.meta.com/quest/quest-3/)
 [![Affiliation](https://img.shields.io/badge/Affiliation-IIIT_Vadodara-red)](https://iiitvadodara.ac.in/)
@@ -53,6 +55,7 @@ In a controlled empirical evaluation with 30 participants (Group A: Document-Bas
 
 | Asset | Description | Location / Link |
 |---|---|---|
+| **IEEE Publication** | Official IEEE Xplore Record (pp. 127–132) | [doi.org/10.1109/ICVARS70356.2026.11683007](https://doi.org/10.1109/ICVARS70356.2026.11683007) |
 | **Research Paper PDF** | Full camera-ready conference paper (ICVARS 2026) | [`docs/D046-Final.pdf`](docs/D046-Final.pdf) |
 | **Presentation Slides** | 15-slide conference presentation deck | [`docs/D046-Presentation.pdf`](docs/D046-Presentation.pdf) |
 | **Project Poster** | High-resolution vertical research poster | [`docs/PortraitPoster.pdf`](docs/PortraitPoster.pdf) |
@@ -211,16 +214,16 @@ $$\text{Knowledge Accuracy } K = \frac{S}{15} \times 100 \quad\quad \text{Learni
 If you use this project, code framework, or evaluation methodology in your research, please cite:
 
 ```bibtex
-@inproceedings{solanki2026comparative,
-  author    = {Solanki, Pranay and Patil, Anuraag and Mazumdar, Pramit and Shah, Pratik},
-  title     = {Comparative Evaluation of Immersive Virtual Reality and Document-Based Training for Industrial Gas Leak Response},
-  booktitle = {Proceedings of the 10th International Conference on Virtual and Augmented Reality Simulations (ICVARS 2026)},
-  year      = {2026},
-  month     = {July},
-  address   = {Chalon-sur-Sa{\^o}ne, France},
-  pages     = {1--6},
-  doi       = {10.1145/xxxxxxx.xxxxxxx}
-}
+@INPROCEEDINGS{11683007,
+  author={Solanki, Pranay and Patil, Anuraag and Mazumdar, Pramit and Shah, Pratik},
+  booktitle={2026 10th International Conference on Intelligent Computing and Virtual & Augmented Reality Simulations (ICVARS)}, 
+  title={Comparative Evaluation of Immersive Virtual Reality and Document-Based Training for Industrial Gas Leak Response}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={127-132},
+  keywords={Training;Testing;Learning (artificial intelligence);Safety;Gases;Gain;Printing;Virtual reality;Emergency services;Timing;Virtual Reality;Spatial Cues;Training;Embodiment;Emergency Response},
+  doi={10.1109/ICVARS70356.2026.11683007}}
 ```
 
 ---
