@@ -60,8 +60,6 @@ In a controlled empirical evaluation with 30 participants (Group A: Document-Bas
 | **Presentation Slides** | 15-slide conference presentation deck | [`docs/D046-Presentation.pdf`](docs/D046-Presentation.pdf) |
 | **Project Poster** | High-resolution vertical research poster | [`docs/PortraitPoster.pdf`](docs/PortraitPoster.pdf) |
 | **Demonstration Video** | Full HD walkthrough recording (276 MB) | [Watch on Google Drive](https://drive.google.com/file/d/1ll9hgTbKASBuqZwwyLWnoaJkD9Vj1_6l/view?usp=sharing) |
-| **Simulation Project & Build** | Complete Unreal Engine 5.4 project & standalone build | Available via [Institute Google Drive](https://drive.google.com/drive/folders/1KDchY6JpNi2NkI8U5J1P_z0JdWpZ2Ret?usp=sharing) |
-| **Google Drive Archive** | Root demonstration folder for new batches & industry | [Shared Google Drive Folder](https://drive.google.com/drive/folders/1KDchY6JpNi2NkI8U5J1P_z0JdWpZ2Ret?usp=sharing) |
 
 ---
 
